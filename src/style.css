@@ -27,3 +27,9 @@ small {
 .fa-heart {
   color: red;
 }
+
+.loveMe {
+  height: 440px;
+  width: 300px;
+  background: url('https://picsum.photos/500/300');
+}
