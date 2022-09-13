@@ -4,6 +4,8 @@ This application is about to have a picture, and once you click at any point in 
 
 ## Random Pictures
 
-The images is from [Lorem Picsum](https://picsum.photos) website.
+The random images are from [Lorem Picsum](https://picsum.photos) website.
 
 ## Application Preview
+
+![gif-preview](assets/double-clicked-heart.gif)
